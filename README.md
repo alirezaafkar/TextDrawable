@@ -17,7 +17,7 @@ repositories{
 }
 
 dependencies {
-    compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
+    compile 'com.amulyakhare:com.amulyakhare.textdrawable:2.0.0'
 }
 ```
 
